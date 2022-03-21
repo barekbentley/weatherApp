@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     String CityName = "Canyon";
 
-    String Request_Link = "https://api.openweathermap.org/data/2.5/weather?q="+CityName+"&appid=5ceca559e239a09a462e0e4d37e1b8e4";
+    String Request_Link = "https://api.openweathermap.org/data/2.5/weather?q="+CityName+"&appid=(code is a secret)";
 
     TextView textView;
 
